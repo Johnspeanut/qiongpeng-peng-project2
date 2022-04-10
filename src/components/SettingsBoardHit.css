@@ -1,0 +1,7 @@
+.exampleBoard {
+    width: 550px;
+    height: 85px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+  }

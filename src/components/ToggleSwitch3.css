@@ -1,0 +1,23 @@
+.toggle{
+    color:black;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.difficultMode{
+    padding:15px;
+    font-size: 1em;
+    font-family: Helvetica, Arial, sans-serif;
+    border:none;
+}
+
+.openModalBtn {
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+  }
+  
