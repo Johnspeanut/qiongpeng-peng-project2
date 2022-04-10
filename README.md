@@ -1,5 +1,5 @@
 ## Link to my Github repo
-git@github.com:Johnspeanut/qiongpeng-peng-project2.git
+https://github.com/Johnspeanut/qiongpeng-peng-project2
 
 
 ## Link to web application
